@@ -17,7 +17,7 @@ background = "#FF4081"
 
 <br>
 
-**TÌM HIỂU VÀ XÂY DỰNG ỨNG DỤNG GÕ TIẾNG VIỆT<br>TRÊN HỆ ĐIỀU HÀNH MACOS/WINDOWS**
+**TÌM HIỂU VÀ PHÁT TRIỂN ỨNG DỤNG GÕ TIẾNG VIỆT<br>TRÊN HỆ ĐIỀU HÀNH MACOS**
 
 <br>
 
