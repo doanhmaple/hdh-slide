@@ -10,6 +10,18 @@ weight = 40
 
 ---
 
+{{< slide background-image="/images/occs.png" background-color="#000000" >}}
+
+---
+
+#### Ngôn ngữ thực hiện
+
+<br>
+
+![Tools](/images/c-swift.png)
+
+---
+
 ![Giao diện](/images/openkey-main-control.png)
 
 ---
