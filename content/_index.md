@@ -13,12 +13,12 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-## HỆ ĐIỀU HÀNH
+#### HỆ ĐIỀU HÀNH
 
 <br>
 
-**TÌM HIỂU VÀ PHÁT TRIỂN ỨNG DỤNG GÕ TIẾNG VIỆT<br>TRÊN HỆ ĐIỀU HÀNH MACOS**
+**ĐỀ TÀI: TÌM HIỂU VÀ PHÁT TRIỂN ỨNG DỤNG<br> GÕ TIẾNG VIỆT TRÊN HỆ ĐIỀU HÀNH MACOS**
 
 <br>
 
-~ trình bày bởi [Doanh - Khoa](#) ~
+GVHD: [TS. Đặng Thanh Hải](#)

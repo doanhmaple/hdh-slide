@@ -10,26 +10,25 @@ weight = 40
 
 ---
 
-![Giao diện](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-main-control.png "Main UI")
+![Giao diện](/images/openkey-main-control.png)
 
 ---
 
-![Giao diện](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-main-control-2.png "Main UI")
+![Giao diện](/images/openkey-main-control-2.png)
 
 ---
 
-![Giao diện](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-main-control-3.png "Main UI")
+![Giao diện](/images/openkey-main-control-3.png)
 
 ---
 
-![Menu](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-small-control.png "Menu bar")
+![Menu](/images/openkey-small-control.png)
+---
+
+![Gõ tắt](/images/openkey-macro.png)
 
 ---
 
-![Gõ tắt](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-macro.png "Macro")
-
----
-
-![Chuyển mã](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-convert-tool.png "ConvertTool")
+![Chuyển mã](/images/openkey-convert-tool.png)
 
 {{% /section %}}

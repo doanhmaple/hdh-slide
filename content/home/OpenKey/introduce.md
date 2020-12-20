@@ -2,17 +2,23 @@
 weight = 20
 +++
 
-### GIỚI THIỆU OPENKEY
+#### GIỚI THIỆU ĐỀ TÀI
 
-Là bộ gõ Tiếng Việt mới cho hệ điều hành macOS,<br> sử dụng kỹ thuật `backspace`. Loại bỏ lỗi gạch chân<br> khó chịu ở bộ gõ mặc định. Hoàn toàn miễn phí<br> và là nguồn mở, luôn cập nhật và phát triển.
+![OpenKey](/images/appicon.png)
+
+**OPENKEY**
 
 ---
 
-### Mã nguồn
+#### GIỚI THIỆU OPENKEY
 
-Mã nguồn của ứng dụng được chia sẻ công khai, minh bạch<br>
-dưới giấy phép GPL (GNU General Public License). Điều này<br>
-nghĩa là bạn hoàn toàn có thể tải mã nguồn về để tự build,<br>
-cải tiến theo mục đích của bạn. Nếu bạn tái phân phối bản<br>
-cải tiến của bạn, thì nó cũng phải là mã nguồn mở và<br>
-thông báo bản gốc là [OpenKey](#).
+Là bộ gõ Tiếng Việt mới cho hệ điều hành macOS,<br>
+sử dụng kỹ thuật **backspace**. Loại bỏ lỗi gạch chân<br>
+khó chịu ở bộ gõ mặc định.
+
+---
+
+#### GIẤY PHÉP NGUỒN MỞ
+
+Mã nguồn của ứng dụng được chia sẻ một cách công khai,<br>
+minh bạch dưới giấy phép GPL (GNU General Public License).

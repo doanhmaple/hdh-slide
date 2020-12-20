@@ -2,13 +2,15 @@
 weight = 50
 +++
 
+{{% section %}}
+
 ## Cài đặt
 
 ---
 
 **Cài đặt thủ công**
 
-Tải bản mới nhất từ [OpenKey](https://github.com/tuyenvm/OpenKey/releases/latest),<br> 
+Tải bản mới nhất từ [OpenKey](https://open-key.org),<br> 
 mở file `dmg` ra rồi kéo thả `OpenKey.app`<br>
 vào thư mục `Application`.
 
@@ -56,4 +58,6 @@ kích hoạt `OpenKey.app`.
 
 ---
 
-![Guide](https://github.com/doanhmaple/hdh-slide/raw/main/images/openkey-guide.png "Accessibility").
+![Guide](/images/openkey-guide.png).
+
+{{% /section %}}

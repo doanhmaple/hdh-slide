@@ -8,23 +8,29 @@ custom_css = "css/custom.css"
 custom_js = "js/custom.js"
 +++
 
-## Demo
-
----
-
-### Tài liệu tham khảo
+#### Tài liệu tham khảo
 
 - [EVKey](https://github.com/lamquangminh/EVKey)
-- [Unikey](#)
+- [Unikey](https://www.unikey.org/source.html)
 - [reveal-hugo Slide](https://github.com/dzello/reveal-hugo)
 - Deploy to [Netlify](https://netlify.com/)
 - Edit with [Forestry](https://forestry.io/)
 
 ---
 
-# Cảm ơn thầy và các bạn đã lắng nghe!
+{{% section %}}
 
-:D
+## Demo
+
+---
+
+![Demo](/images/appicon.png)
+
+{{% /section %}}
+
+---
+
+## Cảm ơn thầy và các bạn đã lắng nghe!
 
 ---
 
